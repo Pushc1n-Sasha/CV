@@ -13,7 +13,8 @@ QA Engineer
 
 ## Skills
 *   Requirements analysis, functionality testing, exploratory testing, user interface testing, regression testing, non-functional testing, application testing, test case identification.
-*   Knowledge of Russian and Belarusian fluent (mother tongue), Polish at C1, English at A2. Manual software testing. 
+*   Knowledge of Russian and Belarusian fluent (mother tongue), Polish at C1, English at A2. 
+*   Manual software testing. 
 *   Test documentation and reporting: Test cases, test plan, test strategy, test reports, reporting bugs, reporting improvements, creating other documentation 
 
 
