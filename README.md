@@ -1,4 +1,4 @@
-# Hi, I'm Aliaksandr! 👋
+# Hi, I'm Aliaksandr! 
 QA Engineer
 
 <p align='center'>
